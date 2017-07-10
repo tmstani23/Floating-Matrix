@@ -1,5 +1,3 @@
 # Floating-Matrix
-A matrix of floating characters.
+A matrix of floating coptic characters.
 
-
-Under Development...
