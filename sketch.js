@@ -47,8 +47,8 @@ function Symbol(x, y, speed, first) {
             //set value to a string from unicode character code 
             this.value = String.fromCharCode(
                 //pick random coptic symbol:
-                //unicode val + random number between 0 and 128:
-                0x03E2 + round(random(0, 128))    
+                //unicode val of coptic block + random number between 0 and 128:  0x03E2 
+               0x2C80 + round(random(0, 128))    
             );
         }    
     }
