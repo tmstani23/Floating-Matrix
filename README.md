@@ -7,7 +7,9 @@ Click the clone or download dropdown button in github.
 
 Download as zip.
 
-Extract onto your desktop.
+Find the zip file at where you downloaded it.
+
+Right-click and extract all onto your desktop.
 
 Double-click the index.html file.
 
